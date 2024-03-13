@@ -1,0 +1,87 @@
+{
+    "basics":{
+      "name": "Seenivasan Praveenkumar",
+      "email": "praveenkumar@u.nus.edu",
+      "phone": "(65) 90067684",
+      "url": "https://www.linkedin.com/in/seenivasan-praveenkumar/"
+    },
+    "work": [{
+      "name": "Neoxam, Singapore",
+      "position": "Implementation Consultant",
+      "url": "https://www.neoxam.com/",
+      "startDate": "2023-05-08",
+      "endDate": "present",
+      "summary": "Develop technical solutions on software platform to meet business needs."
+      },
+      {
+      "name": "HedgeSPA, Singapore",
+      "position": "Software Development Intern",
+      "url": "https://web.hedgespa.com/",
+      "startDate": "2021-12-01",
+      "endDate": "2022-07-15",
+      "summary": "Built additional features for a portfolio management system using React for front end and Java for backend"
+      }
+    ],
+    "education": [{
+      "institution": "National University of Singapore",
+      "url": "https://nus.edu.sg/",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2019-08-01",
+      "endDate": "2023-05-31",
+      "score": "2nd Class (Lower) Honours"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+      },
+      {
+      "name": "Database Management",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "SQL"
+      ]
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Beginner",
+        "keywords": [
+          "Python",
+          "Data Visualization"
+        ]
+      },
+      {
+        "name": "Interpersonal",
+        "level": "Expert",
+        "keywords": [
+          "Design Thinking",
+          "Team work",
+          "Leadership",
+          "Communication"
+        ]
+      }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+      },
+      {
+      "language": "Tamil",
+      "fluency": "Native speaker"
+      }
+    ],
+    "interests": [{
+      "name": "Watching TV Shows and Movies",
+      "keywords": [
+        "Mystery",
+        "Anime",
+        "Comedy"
+      ]
+    }]
+}
